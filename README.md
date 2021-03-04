@@ -1,2 +1,2 @@
-# play-college-sports
-Play College Sports
+# Дипломный проект курса «Адаптивная и мобильная верстка»
+HTML5, CSS3
